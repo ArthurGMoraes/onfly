@@ -12,6 +12,6 @@
   "devDependencies": {
     "@types/node": "^20.0.0",
     "n8n-workflow": "^1.110.0",
-    "typescript": "^5.2.0"
+    "typescript": "^5.9.2"
   }
 }
