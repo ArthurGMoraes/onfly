@@ -19,6 +19,5 @@ Thumbs.db
 
 # Dados locais
 db_data/
-n8n_data/
 
 docker-compose.override.yml
